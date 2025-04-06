@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Nirmaan/static/css/main.e87b5dea.css",
-    "main.js": "/Nirmaan/static/js/main.8b74a00b.js",
+    "main.js": "/Nirmaan/static/js/main.16da52d2.js",
     "index.html": "/Nirmaan/index.html",
     "main.e87b5dea.css.map": "/Nirmaan/static/css/main.e87b5dea.css.map",
-    "main.8b74a00b.js.map": "/Nirmaan/static/js/main.8b74a00b.js.map"
+    "main.16da52d2.js.map": "/Nirmaan/static/js/main.16da52d2.js.map"
   },
   "entrypoints": [
     "static/css/main.e87b5dea.css",
-    "static/js/main.8b74a00b.js"
+    "static/js/main.16da52d2.js"
   ]
 }
