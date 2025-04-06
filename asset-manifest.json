@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Gayatrii4506/Nirmaan/static/css/main.e87b5dea.css",
-    "main.js": "/Gayatrii4506/Nirmaan/static/js/main.8b74a00b.js",
-    "index.html": "/Gayatrii4506/Nirmaan/index.html",
-    "main.e87b5dea.css.map": "/Gayatrii4506/Nirmaan/static/css/main.e87b5dea.css.map",
-    "main.8b74a00b.js.map": "/Gayatrii4506/Nirmaan/static/js/main.8b74a00b.js.map"
+    "main.css": "/Nirmaan/static/css/main.e87b5dea.css",
+    "main.js": "/Nirmaan/static/js/main.8b74a00b.js",
+    "index.html": "/Nirmaan/index.html",
+    "main.e87b5dea.css.map": "/Nirmaan/static/css/main.e87b5dea.css.map",
+    "main.8b74a00b.js.map": "/Nirmaan/static/js/main.8b74a00b.js.map"
   },
   "entrypoints": [
     "static/css/main.e87b5dea.css",
